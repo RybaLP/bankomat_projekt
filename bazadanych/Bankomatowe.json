@@ -1,0 +1,62 @@
+[
+  {
+    "LimitDzienny": 5,
+    "LimitLicznik": 0,
+    "ImieWlasciciela": "Elozelo",
+    "NazwiskoWlasciciela": "Zac",
+    "Pin": 3414,
+    "Saldo": 75000.0,
+    "NazwaKarty": "MasterCard",
+    "TypKarty": "KartaStandardowa"
+  },
+  {
+    "LimitDzienny": 10,
+    "LimitLicznik": 0,
+    "ImieWlasciciela": "Jan",
+    "NazwiskoWlasciciela": "Kowalski",
+    "Pin": 1231,
+    "Saldo": 60000.0,
+    "NazwaKarty": "Visa",
+    "TypKarty": "KartaPremium"
+  },
+  {
+    "LimitDzienny": 15,
+    "LimitLicznik": 0,
+    "ImieWlasciciela": "Magda",
+    "NazwiskoWlasciciela": "Nowak",
+    "Pin": 2671,
+    "Saldo": 90000.0,
+    "NazwaKarty": "American Express",
+    "TypKarty": "KartaGold"
+  },
+  {
+    "LimitDzienny": 8,
+    "LimitLicznik": 0,
+    "ImieWlasciciela": "Piotr",
+    "NazwiskoWlasciciela": "Zawadzki",
+    "Pin": 7891,
+    "Saldo": 70000.0,
+    "NazwaKarty": "Discover",
+    "TypKarty": "KartaStandardowa"
+  },
+  {
+    "LimitDzienny": 12,
+    "LimitLicznik": 0,
+    "ImieWlasciciela": "Anna",
+    "NazwiskoWlasciciela": "Wisniewska",
+    "Pin": 1321,
+    "Saldo": 80000.0,
+    "NazwaKarty": "Maestro",
+    "TypKarty": "KartaJunior"
+  },
+  {
+    "LimitDzienny": 2,
+    "LimitLicznik": 2,
+    "ImieWlasciciela": "Tomasz",
+    "NazwiskoWlasciciela": "Jankowski",
+    "Pin": 1276,
+    "Saldo": 94620.0,
+    "NazwaKarty": "Diners Club",
+    "TypKarty": "KartaPremium"
+  }
+]
